@@ -1,7 +1,7 @@
 body {
     text-align: center;
-    font-family: 'Happy Monkey', cursive;
-    background: linear-gradient(#a2d2ff, #EFB0C9);
+    font-family: "Imperial Script", cursive;
+    background: linear-gradient(#c8b6ff, #e7c6ff);
     color: #ffffff;
 }
 
@@ -10,7 +10,7 @@ h1, h2, h3, h4, p {
 }
 
 #bff-img {
-    width: 150px;
+    width: 200px;
     border-radius: 50%;
     border: 6px solid #EFB0C9;
     margin-bottom: 10px;
