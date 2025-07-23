@@ -1,7 +1,7 @@
 body {
     text-align: center;
     font-family: "Imperial Script", cursive;
-    background: linear-gradient(#c8b6ff, #e7c6ff);
+    background: linear-gradient(#ffa5ab, #f9dbbd);
     color: #ffffff;
 }
 
@@ -10,9 +10,9 @@ h1, h2, h3, h4, p {
 }
 
 #bff-img {
-    width: 200px;
+    width: 300px;
     border-radius: 50%;
-    border: 6px solid #EFB0C9;
+    border: 6px solid #a53860;
     margin-bottom: 10px;
 }
 
