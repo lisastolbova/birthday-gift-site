@@ -85,6 +85,7 @@ h1, h2, h3, h4, p {
 #footer {
     font-style: italic;
     width: 400px;
+    height: 400px;
     margin: 40px auto 20px;
 }
 
